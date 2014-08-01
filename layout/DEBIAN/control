@@ -1,0 +1,11 @@
+Package: jp.ashikase.crashgenerator
+Name: CrashGenerator
+Version: 1.0.0
+Description: App to test different types of crashes.
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>=4.0)
+Homepage: http://github.com/ashikase/CrashGenerator
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Section: Development
+Tag: role::developer
+dev: ashikase
